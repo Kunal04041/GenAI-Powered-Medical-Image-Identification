@@ -50,7 +50,7 @@ Install all required Python packages by running:
 ```python
 pip install -r requirements.txt
 ```
-The poppler-utils part can’t go inside requirements.txt because it’s a system package, not a Python package so you’ll still need to install it separately via:
+The poppler-utils part can’t go inside requirements.txt because it’s a system package, not a Python package so you will need to install it separately via:
 ```python
 apt-get install -y poppler-utils
 ```
