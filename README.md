@@ -63,5 +63,12 @@ streamlit run app.py
 ```
 After launching, Streamlit will provide a local URL, open this link in your web browser to interact with the application.
 
+## 4. Video Walkthrough  
+I have created a complete video walkthrough explaining the project, covering:  
+- Code structure  
+- Step-by-step working of each component  
+- Live demo of image extraction & classification  
+
+Click on the link to access video 
 
 
