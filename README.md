@@ -72,6 +72,6 @@ I have created a complete video walkthrough explaining the project, covering:
 - Step-by-step working of each component  
 - Live demo of image extraction & classification  
 
-Click on the link to access video 
+Click on the link to access video: https://www.loom.com/share/46ffa046fdee4d6ab218e106969b5c24
 
 
