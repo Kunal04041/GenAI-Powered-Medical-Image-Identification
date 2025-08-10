@@ -1,0 +1,11 @@
+pdf2image
+open-clip-torch
+transformers
+beautifulsoup4
+requests
+pillow
+scikit-learn
+matplotlib
+seaborn
+tqdm
+streamlit
